@@ -1,5 +1,4 @@
 # Ecommerce-MYSQL-Project
-
 -- TASK 3: SQL FOR DATA ANALYSIS
 
 --  Dataset : Ecommerce_SQL_Database
