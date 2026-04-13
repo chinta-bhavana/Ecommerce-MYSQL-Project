@@ -1,0 +1,65 @@
+product_id,product_name,category,price,stock_quantity,supplier
+1,Smartphone,Electronics,6266.08,188,TechMart
+2,Laptop,Electronics,33673.14,344,TechMart
+3,Headphones,Electronics,13180.85,195,TechMart
+4,Smartwatch,Electronics,41137.62,481,TechMart
+5,Tablet,Electronics,18635.53,345,TechMart
+6,Camera,Electronics,11766.71,12,TechMart
+7,Speaker,Electronics,31014.39,482,TechMart
+8,Charger,Electronics,28113.23,468,TechMart
+9,T-Shirt,Clothing,30542.1,331,FashionHub
+10,Jeans,Clothing,3253.53,421,FashionHub
+11,Kurti,Clothing,23265.95,358,FashionHub
+12,Saree,Clothing,15178.29,209,FashionHub
+13,Jacket,Clothing,5921.13,23,FashionHub
+14,Shorts,Clothing,47317.45,155,FashionHub
+15,Dress,Clothing,49795.78,59,FashionHub
+16,Sweater,Clothing,4948.88,454,FashionHub
+17,Data Science Book,Books,26922.58,198,BookWorld
+18,Python Guide,Books,22735.82,343,BookWorld
+19,SQL Mastery,Books,47473.1,356,BookWorld
+20,ML Handbook,Books,47303.11,214,BookWorld
+21,Fiction Novel,Books,29407.28,372,BookWorld
+22,Biography,Books,7809.69,212,BookWorld
+23,History Book,Books,32779.6,426,BookWorld
+24,Science Book,Books,24517.42,208,BookWorld
+25,Mixer,Home & Kitchen,46957.75,143,HomeEssentials
+26,Pressure Cooker,Home & Kitchen,1731.54,189,HomeEssentials
+27,Water Bottle,Home & Kitchen,10940.76,227,HomeEssentials
+28,Knife Set,Home & Kitchen,47531.7,437,HomeEssentials
+29,Blender,Home & Kitchen,18197.03,351,HomeEssentials
+30,Toaster,Home & Kitchen,18429.01,461,HomeEssentials
+31,Iron Box,Home & Kitchen,48893.34,183,HomeEssentials
+32,Fan,Home & Kitchen,3120.45,141,HomeEssentials
+33,Cricket Bat,Sports,9570.45,62,SportZone
+34,Football,Sports,47454.64,421,SportZone
+35,Yoga Mat,Sports,22789.4,339,SportZone
+36,Dumbbells,Sports,10683.08,327,SportZone
+37,Badminton Racket,Sports,29896.58,10,SportZone
+38,Skipping Rope,Sports,2622.87,170,SportZone
+39,Cycling Gloves,Sports,12253.09,64,SportZone
+40,Knee Guard,Sports,39369.21,105,SportZone
+41,Face Cream,Beauty,3522.65,391,BeautyPro
+42,Shampoo,Beauty,27753.97,300,BeautyPro
+43,Lipstick,Beauty,10874.97,445,BeautyPro
+44,Perfume,Beauty,11725.63,396,BeautyPro
+45,Sunscreen,Beauty,7461.95,461,BeautyPro
+46,Hair Oil,Beauty,29838.48,141,BeautyPro
+47,Face Wash,Beauty,42933.47,74,BeautyPro
+48,Body Lotion,Beauty,49376.61,276,BeautyPro
+49,Lego Set,Toys,12606.64,89,KidsZone
+50,Puzzle,Toys,5584.32,443,KidsZone
+51,RC Car,Toys,1385.43,7,KidsZone
+52,Doll,Toys,17975.29,403,KidsZone
+53,Board Game,Toys,11971.79,165,KidsZone
+54,Clay Kit,Toys,886.48,135,KidsZone
+55,Drawing Set,Toys,2713.71,379,KidsZone
+56,Soft Toy,Toys,21104.93,58,KidsZone
+57,Study Table,Furniture,37307.7,243,FurnitureCo
+58,Office Chair,Furniture,22467.93,185,FurnitureCo
+59,Bookshelf,Furniture,25709.57,55,FurnitureCo
+60,Wardrobe,Furniture,22654.07,113,FurnitureCo
+61,Sofa,Furniture,47275.24,22,FurnitureCo
+62,Bed Frame,Furniture,36388.43,465,FurnitureCo
+63,TV Unit,Furniture,43361.35,266,FurnitureCo
+64,Shoe Rack,Furniture,15150.35,329,FurnitureCo

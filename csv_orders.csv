@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,status,payment_method,shipping_city
+1,8,3/4/2023,Returned,Net Banking,Kolkata
+2,21,11/26/2023,Processing,Credit Card,Mumbai
+3,130,9/11/2024,Returned,UPI,Mumbai
+4,187,4/8/2023,Cancelled,Net Banking,Pune
+5,96,5/14/2023,Processing,UPI,Pune
+6,193,3/9/2024,Delivered,Debit Card,Chennai
+7,196,10/13/2023,Processing,Credit Card,Kolkata
+8,180,11/13/2023,Cancelled,Debit Card,Hyderabad
+9,136,8/9/2023,Returned,Net Banking,Ahmedabad
+10,194,9/24/2024,Delivered,UPI,Chennai
+11,171,11/12/2023,Delivered,Credit Card,Kolkata
+12,55,5/21/2023,Cancelled,Debit Card,Pune
+13,45,5/13/2023,Returned,Cash on Delivery,Bangalore
+14,104,12/27/2024,Returned,Debit Card,Mumbai
+15,80,12/14/2023,Shipped,Debit Card,Delhi
+16,199,12/24/2023,Cancelled,Credit Card,Bangalore
+17,155,6/6/2023,Delivered,Credit Card,Ahmedabad
+18,80,4/17/2024,Returned,UPI,Hyderabad
+19,190,2/12/2023,Returned,Cash on Delivery,Bangalore
+20,45,2/10/2023,Shipped,Net Banking,Ahmedabad
+21,14,10/8/2024,Cancelled,UPI,Pune
+22,169,9/9/2024,Shipped,Debit Card,Mumbai
+23,97,10/20/2024,Cancelled,Credit Card,Mumbai
+24,26,6/3/2024,Processing,Cash on Delivery,Hyderabad
+25,12,2/25/2024,Cancelled,Credit Card,Ahmedabad
+26,147,3/27/2024,Returned,Debit Card,Kolkata
+27,73,3/27/2023,Shipped,Debit Card,Ahmedabad
+28,107,2/24/2023,Returned,Cash on Delivery,Pune
+29,183,10/27/2024,Cancelled,Credit Card,Delhi
+30,36,12/23/2024,Returned,Net Banking,Hyderabad
+31,39,7/15/2024,Processing,Cash on Delivery,Kolkata
+32,13,9/2/2023,Returned,Cash on Delivery,Ahmedabad
+33,5,10/9/2024,Processing,Cash on Delivery,Bangalore
+34,48,11/11/2024,Delivered,Cash on Delivery,Pune
+35,12,10/12/2024,Returned,Debit Card,Chennai
+36,188,11/3/2024,Delivered,Cash on Delivery,Pune
+37,176,4/20/2024,Returned,Credit Card,Delhi
+38,12,7/24/2023,Delivered,Debit Card,Chennai
+39,103,3/26/2024,Returned,Debit Card,Delhi
+40,84,11/7/2024,Cancelled,Debit Card,Ahmedabad
+41,164,2/20/2024,Cancelled,Cash on Delivery,Delhi
+42,113,2/5/2023,Shipped,UPI,Bangalore
+43,20,8/10/2024,Shipped,Cash on Delivery,Pune
+44,55,9/18/2024,Cancelled,Net Banking,Bangalore
+45,183,3/31/2024,Delivered,Debit Card,Pune
+46,183,12/27/2024,Shipped,Debit Card,Bangalore
+47,127,1/27/2023,Cancelled,Cash on Delivery,Pune
+48,82,10/19/2024,Delivered,Net Banking,Ahmedabad
+49,43,6/15/2023,Cancelled,Credit Card,Pune
+50,44,8/29/2024,Processing,Credit Card,Delhi
+51,107,9/24/2024,Delivered,Net Banking,Chennai
+52,53,12/15/2023,Processing,Credit Card,Pune
+53,116,9/11/2023,Shipped,UPI,Hyderabad
+54,128,6/11/2024,Returned,Net Banking,Chennai
+55,3,4/21/2023,Returned,Credit Card,Chennai
+56,99,5/31/2024,Returned,Cash on Delivery,Chennai
+57,87,7/25/2024,Cancelled,Credit Card,Bangalore
+58,101,9/23/2024,Cancelled,Cash on Delivery,Pune
+59,199,8/15/2024,Processing,Credit Card,Hyderabad
+60,53,2/25/2024,Processing,Cash on Delivery,Ahmedabad
+61,84,11/9/2024,Returned,Cash on Delivery,Kolkata
+62,72,7/25/2024,Cancelled,Credit Card,Chennai
+63,98,2/9/2024,Cancelled,Credit Card,Chennai
+64,114,11/2/2024,Cancelled,Net Banking,Bangalore
+65,13,11/16/2024,Processing,Credit Card,Bangalore
+66,121,4/13/2023,Shipped,UPI,Delhi
+67,186,2/8/2023,Shipped,Net Banking,Delhi
+68,192,10/24/2023,Delivered,UPI,Chennai
+69,165,7/10/2024,Processing,Net Banking,Delhi
+70,194,7/17/2023,Shipped,Cash on Delivery,Kolkata
+71,193,10/1/2023,Cancelled,Debit Card,Hyderabad
+72,181,11/15/2023,Delivered,Debit Card,Pune
+73,180,7/16/2024,Returned,Cash on Delivery,Bangalore
+74,29,3/5/2023,Processing,Cash on Delivery,Bangalore
+75,126,4/4/2023,Processing,Net Banking,Hyderabad
+76,149,3/16/2023,Delivered,Net Banking,Pune
+77,121,2/2/2023,Cancelled,Net Banking,Delhi
+78,175,11/8/2024,Processing,Credit Card,Pune
+79,33,8/17/2023,Delivered,UPI,Chennai
+80,5,9/4/2023,Shipped,UPI,Mumbai
+81,13,9/8/2023,Delivered,Net Banking,Ahmedabad
+82,188,8/12/2024,Cancelled,Cash on Delivery,Pune
+83,143,8/28/2024,Shipped,Net Banking,Ahmedabad
+84,82,12/14/2024,Returned,Net Banking,Delhi
+85,15,7/29/2024,Returned,Net Banking,Delhi
+86,155,2/10/2023,Delivered,Credit Card,Bangalore
+87,102,9/3/2023,Processing,Debit Card,Chennai
+88,95,11/17/2023,Returned,UPI,Bangalore
+89,76,6/6/2023,Shipped,Debit Card,Bangalore
+90,139,10/19/2024,Delivered,Cash on Delivery,Hyderabad
+91,162,8/25/2023,Delivered,Credit Card,Hyderabad
+92,169,5/14/2024,Delivered,UPI,Kolkata
+93,138,10/21/2023,Delivered,Cash on Delivery,Kolkata
+94,65,12/29/2023,Cancelled,Net Banking,Mumbai
+95,98,1/22/2024,Processing,Net Banking,Hyderabad
+96,112,10/22/2024,Cancelled,Cash on Delivery,Mumbai
+97,178,8/3/2024,Returned,Debit Card,Hyderabad
+98,9,7/3/2023,Cancelled,UPI,Bangalore
+99,100,11/24/2024,Processing,Debit Card,Kolkata
+100,88,9/11/2024,Processing,Cash on Delivery,Kolkata
+101,150,11/7/2024,Returned,UPI,Chennai
+102,82,1/5/2024,Delivered,UPI,Hyderabad
+103,105,4/16/2023,Delivered,UPI,Pune
+104,106,2/2/2024,Delivered,Cash on Delivery,Bangalore
+105,17,6/21/2023,Returned,Debit Card,Kolkata
+106,35,11/8/2023,Delivered,Net Banking,Pune
+107,178,10/10/2024,Returned,Cash on Delivery,Bangalore
+108,197,7/17/2024,Delivered,Net Banking,Bangalore
+109,154,5/5/2024,Processing,Net Banking,Kolkata
+110,22,4/22/2023,Shipped,Debit Card,Delhi
+111,111,4/19/2023,Delivered,UPI,Chennai
+112,39,12/20/2023,Delivered,Net Banking,Mumbai
+113,90,5/2/2024,Delivered,Net Banking,Ahmedabad
+114,190,9/7/2023,Processing,Credit Card,Delhi
+115,189,9/20/2024,Shipped,Net Banking,Kolkata
+116,126,6/24/2024,Cancelled,Cash on Delivery,Kolkata
+117,62,11/9/2023,Delivered,Credit Card,Pune
+118,125,10/12/2024,Processing,Credit Card,Delhi
+119,130,10/30/2024,Returned,Net Banking,Ahmedabad
+120,118,8/2/2024,Returned,Cash on Delivery,Mumbai
+121,94,7/9/2024,Delivered,Net Banking,Bangalore
+122,189,8/25/2024,Cancelled,Cash on Delivery,Kolkata
+123,72,9/3/2024,Processing,Credit Card,Pune
+124,33,12/19/2024,Shipped,Credit Card,Delhi
+125,163,4/6/2023,Returned,Cash on Delivery,Chennai
+126,179,1/2/2024,Delivered,Cash on Delivery,Kolkata
+127,148,5/14/2023,Processing,Net Banking,Pune
+128,118,1/17/2023,Delivered,Credit Card,Ahmedabad
+129,167,6/19/2023,Delivered,Net Banking,Chennai
+130,152,8/20/2023,Processing,Net Banking,Hyderabad
+131,109,12/11/2024,Shipped,Net Banking,Mumbai
+132,36,1/27/2024,Shipped,Credit Card,Mumbai
+133,55,10/5/2024,Shipped,Net Banking,Ahmedabad
+134,90,3/15/2024,Cancelled,Credit Card,Bangalore
+135,192,2/6/2024,Cancelled,UPI,Bangalore
+136,140,11/30/2024,Shipped,Net Banking,Mumbai
+137,11,3/3/2023,Returned,Cash on Delivery,Chennai
+138,101,8/23/2024,Delivered,Debit Card,Kolkata
+139,156,2/26/2023,Cancelled,Credit Card,Mumbai
+140,89,6/19/2024,Processing,Debit Card,Delhi
+141,148,10/4/2024,Delivered,Net Banking,Ahmedabad
+142,131,1/3/2023,Delivered,UPI,Bangalore
+143,39,7/3/2023,Delivered,Cash on Delivery,Kolkata
+144,20,8/8/2024,Cancelled,UPI,Hyderabad
+145,199,11/15/2023,Cancelled,UPI,Ahmedabad
+146,78,9/29/2024,Shipped,Net Banking,Pune
+147,97,11/11/2023,Delivered,Credit Card,Bangalore
+148,192,3/28/2023,Processing,UPI,Delhi
+149,70,8/28/2023,Delivered,Credit Card,Delhi
+150,120,11/18/2023,Returned,UPI,Pune
+151,176,11/8/2023,Processing,UPI,Bangalore
+152,45,2/1/2023,Returned,Net Banking,Bangalore
+153,36,5/5/2023,Delivered,UPI,Bangalore
+154,67,3/18/2023,Delivered,UPI,Bangalore
+155,98,11/30/2024,Returned,Credit Card,Pune
+156,159,9/23/2024,Shipped,Debit Card,Ahmedabad
+157,98,1/3/2024,Returned,Cash on Delivery,Ahmedabad
+158,121,6/26/2024,Cancelled,Cash on Delivery,Bangalore
+159,57,8/12/2024,Returned,Debit Card,Delhi
+160,91,8/4/2024,Processing,Credit Card,Bangalore
+161,52,5/14/2023,Cancelled,Credit Card,Pune
+162,37,4/24/2023,Processing,Debit Card,Mumbai
+163,125,10/26/2024,Cancelled,Credit Card,Pune
+164,187,1/2/2023,Processing,Net Banking,Hyderabad
+165,191,3/21/2023,Shipped,Debit Card,Pune
+166,18,12/25/2023,Cancelled,UPI,Hyderabad
+167,43,2/28/2024,Returned,Net Banking,Pune
+168,44,1/20/2024,Shipped,UPI,Mumbai
+169,49,2/24/2024,Processing,Cash on Delivery,Chennai
+170,1,3/13/2024,Delivered,Debit Card,Ahmedabad
+171,122,4/29/2023,Cancelled,Net Banking,Ahmedabad
+172,69,7/31/2024,Delivered,Credit Card,Mumbai
+173,194,8/26/2024,Shipped,Cash on Delivery,Hyderabad
+174,194,4/4/2024,Shipped,Credit Card,Bangalore
+175,161,6/1/2023,Processing,Debit Card,Pune
+176,142,11/30/2023,Cancelled,Cash on Delivery,Ahmedabad
+177,38,8/3/2024,Processing,Cash on Delivery,Mumbai
+178,89,2/25/2024,Cancelled,Net Banking,Ahmedabad
+179,69,1/17/2024,Delivered,Debit Card,Chennai
+180,107,9/11/2024,Delivered,Credit Card,Ahmedabad
+181,41,3/9/2023,Cancelled,Cash on Delivery,Kolkata
+182,64,2/3/2023,Returned,UPI,Pune
+183,62,1/17/2024,Returned,Cash on Delivery,Ahmedabad
+184,177,4/3/2023,Cancelled,UPI,Kolkata
+185,55,8/15/2023,Shipped,Credit Card,Chennai
+186,182,10/20/2024,Cancelled,Net Banking,Kolkata
+187,2,6/7/2024,Cancelled,Cash on Delivery,Chennai
+188,167,11/2/2023,Shipped,Credit Card,Bangalore
+189,185,1/27/2023,Returned,Debit Card,Chennai
+190,44,11/4/2024,Processing,Credit Card,Chennai
+191,186,7/26/2024,Shipped,Debit Card,Mumbai
+192,150,10/29/2023,Returned,UPI,Ahmedabad
+193,129,5/3/2023,Returned,Cash on Delivery,Chennai
+194,125,12/7/2023,Shipped,Debit Card,Hyderabad
+195,199,6/22/2023,Processing,Credit Card,Ahmedabad
+196,110,2/18/2024,Returned,Net Banking,Kolkata
+197,96,1/15/2023,Cancelled,Cash on Delivery,Bangalore
+198,89,11/16/2023,Shipped,UPI,Kolkata
+199,112,12/4/2024,Shipped,Debit Card,Ahmedabad
+200,44,5/7/2023,Cancelled,UPI,Kolkata
+201,122,12/19/2024,Shipped,Credit Card,Hyderabad
+202,159,5/1/2023,Cancelled,UPI,Mumbai
+203,1,1/14/2023,Delivered,UPI,Ahmedabad
+204,76,9/28/2023,Returned,UPI,Mumbai
+205,30,4/8/2023,Delivered,UPI,Delhi
+206,24,1/17/2024,Cancelled,Credit Card,Mumbai
+207,152,5/9/2024,Processing,Net Banking,Delhi
+208,174,6/21/2024,Processing,Cash on Delivery,Bangalore
+209,157,2/25/2023,Delivered,Credit Card,Ahmedabad
+210,61,3/22/2023,Returned,Net Banking,Ahmedabad
+211,128,10/31/2024,Delivered,UPI,Kolkata
+212,85,7/27/2024,Processing,Cash on Delivery,Ahmedabad
+213,96,12/19/2024,Delivered,UPI,Delhi
+214,28,2/29/2024,Delivered,Cash on Delivery,Mumbai
+215,46,12/9/2024,Processing,Credit Card,Delhi
+216,83,5/31/2024,Returned,Net Banking,Bangalore
+217,180,7/14/2024,Cancelled,Cash on Delivery,Bangalore
+218,167,7/2/2023,Processing,Cash on Delivery,Pune
+219,147,11/14/2024,Returned,Cash on Delivery,Chennai
+220,16,12/8/2024,Cancelled,Credit Card,Hyderabad
+221,13,1/26/2024,Returned,Net Banking,Pune
+222,200,3/29/2024,Shipped,Debit Card,Bangalore
+223,45,6/10/2024,Delivered,Net Banking,Hyderabad
+224,199,10/2/2024,Processing,Debit Card,Ahmedabad
+225,24,12/24/2023,Shipped,Credit Card,Pune
+226,89,4/1/2024,Shipped,Cash on Delivery,Bangalore
+227,30,1/31/2024,Cancelled,Cash on Delivery,Chennai
+228,115,5/13/2024,Delivered,Debit Card,Bangalore
+229,109,4/17/2023,Shipped,Cash on Delivery,Kolkata
+230,85,2/8/2023,Delivered,UPI,Hyderabad
+231,116,10/7/2024,Returned,Net Banking,Pune
+232,165,9/25/2024,Delivered,Cash on Delivery,Hyderabad
+233,176,11/5/2023,Processing,UPI,Chennai
+234,187,10/25/2024,Cancelled,UPI,Delhi
+235,101,7/4/2024,Processing,UPI,Chennai
+236,48,8/15/2023,Processing,Debit Card,Bangalore
+237,193,7/16/2024,Returned,Cash on Delivery,Mumbai
+238,168,8/29/2023,Delivered,Debit Card,Mumbai
+239,40,8/2/2024,Processing,Debit Card,Pune
+240,119,4/1/2024,Cancelled,Debit Card,Ahmedabad
+241,72,5/24/2023,Processing,Credit Card,Chennai
+242,162,2/1/2023,Processing,Cash on Delivery,Kolkata
+243,199,6/2/2023,Cancelled,Net Banking,Bangalore
+244,194,6/10/2024,Shipped,Net Banking,Delhi
+245,68,1/14/2024,Shipped,UPI,Bangalore
+246,71,9/27/2023,Processing,Cash on Delivery,Delhi
+247,124,9/10/2024,Delivered,Cash on Delivery,Delhi
+248,185,4/27/2023,Returned,Net Banking,Ahmedabad
+249,42,5/18/2023,Processing,UPI,Delhi
+250,133,2/20/2024,Processing,Cash on Delivery,Hyderabad
+251,150,7/6/2023,Processing,Cash on Delivery,Chennai
+252,34,4/22/2023,Delivered,Credit Card,Kolkata
+253,137,5/30/2024,Delivered,UPI,Ahmedabad
+254,110,8/23/2023,Returned,Net Banking,Pune
+255,197,8/27/2023,Delivered,Debit Card,Kolkata
+256,28,6/8/2023,Returned,Cash on Delivery,Chennai
+257,95,7/26/2024,Processing,Net Banking,Chennai
+258,131,2/15/2024,Cancelled,Cash on Delivery,Hyderabad
+259,112,4/1/2023,Delivered,Debit Card,Bangalore
+260,199,6/29/2023,Returned,Net Banking,Hyderabad
+261,60,9/21/2024,Shipped,UPI,Pune
+262,102,2/20/2024,Processing,Credit Card,Hyderabad
+263,144,8/19/2024,Cancelled,Debit Card,Chennai
+264,130,4/20/2023,Processing,UPI,Chennai
+265,151,1/29/2023,Returned,UPI,Chennai
+266,59,11/20/2023,Returned,Debit Card,Hyderabad
+267,91,8/12/2023,Processing,Debit Card,Delhi
+268,52,9/13/2023,Processing,Debit Card,Delhi
+269,170,5/19/2024,Processing,UPI,Hyderabad
+270,109,5/4/2024,Processing,UPI,Pune
+271,48,7/15/2024,Cancelled,Credit Card,Chennai
+272,148,12/3/2024,Shipped,UPI,Chennai
+273,3,6/30/2023,Returned,Net Banking,Delhi
+274,66,5/2/2024,Delivered,Net Banking,Pune
+275,148,10/27/2024,Processing,Credit Card,Chennai
+276,164,12/12/2023,Returned,Cash on Delivery,Kolkata
+277,81,11/21/2023,Cancelled,Debit Card,Kolkata
+278,191,12/18/2024,Delivered,Credit Card,Delhi
+279,168,2/4/2024,Cancelled,Credit Card,Bangalore
+280,120,7/7/2024,Cancelled,Cash on Delivery,Ahmedabad
+281,89,5/8/2024,Processing,Credit Card,Mumbai
+282,177,5/18/2024,Returned,Debit Card,Hyderabad
+283,57,9/27/2023,Delivered,Net Banking,Bangalore
+284,159,4/8/2024,Cancelled,Cash on Delivery,Ahmedabad
+285,27,10/16/2023,Cancelled,Credit Card,Ahmedabad
+286,127,8/11/2023,Cancelled,Net Banking,Chennai
+287,65,1/26/2024,Delivered,UPI,Bangalore
+288,41,10/6/2024,Delivered,Cash on Delivery,Mumbai
+289,84,1/16/2023,Shipped,Debit Card,Mumbai
+290,195,10/2/2024,Delivered,UPI,Pune
+291,194,12/22/2023,Returned,Credit Card,Hyderabad
+292,83,4/24/2024,Cancelled,Cash on Delivery,Delhi
+293,68,7/8/2024,Cancelled,Net Banking,Hyderabad
+294,40,9/19/2024,Cancelled,Debit Card,Kolkata
+295,125,7/16/2023,Delivered,UPI,Kolkata
+296,164,3/4/2023,Cancelled,Cash on Delivery,Kolkata
+297,186,8/25/2023,Processing,Net Banking,Bangalore
+298,197,10/15/2024,Processing,Debit Card,Ahmedabad
+299,141,11/29/2023,Cancelled,Net Banking,Kolkata
+300,102,1/1/2023,Delivered,Debit Card,Hyderabad
+301,6,12/7/2024,Cancelled,Cash on Delivery,Delhi
+302,36,9/29/2023,Cancelled,Cash on Delivery,Bangalore
+303,188,3/21/2023,Cancelled,Net Banking,Delhi
+304,59,10/30/2024,Processing,UPI,Kolkata
+305,139,8/1/2024,Shipped,Debit Card,Bangalore
+306,57,3/18/2024,Cancelled,Net Banking,Delhi
+307,68,3/29/2023,Returned,Cash on Delivery,Kolkata
+308,51,7/28/2024,Processing,Cash on Delivery,Bangalore
+309,172,2/28/2024,Returned,Debit Card,Pune
+310,90,9/23/2024,Returned,Cash on Delivery,Delhi
+311,74,1/15/2023,Cancelled,UPI,Chennai
+312,37,12/12/2024,Delivered,Net Banking,Hyderabad
+313,3,3/10/2023,Returned,Debit Card,Pune
+314,167,1/31/2024,Shipped,Net Banking,Mumbai
+315,136,11/9/2023,Cancelled,Net Banking,Kolkata
+316,129,10/10/2023,Delivered,Debit Card,Kolkata
+317,101,11/3/2024,Shipped,UPI,Kolkata
+318,85,4/4/2024,Processing,Credit Card,Bangalore
+319,111,5/29/2023,Processing,Credit Card,Pune
+320,38,1/31/2023,Cancelled,Net Banking,Kolkata
+321,156,8/3/2024,Processing,Credit Card,Bangalore
+322,155,4/25/2024,Cancelled,Credit Card,Kolkata
+323,17,7/1/2023,Returned,Cash on Delivery,Ahmedabad
+324,101,9/18/2024,Processing,Cash on Delivery,Hyderabad
+325,11,9/9/2023,Processing,Cash on Delivery,Kolkata
+326,13,7/14/2023,Cancelled,Net Banking,Kolkata
+327,166,4/7/2024,Delivered,Cash on Delivery,Mumbai
+328,152,12/30/2024,Shipped,Net Banking,Mumbai
+329,99,6/7/2024,Processing,Credit Card,Kolkata
+330,115,10/23/2023,Shipped,UPI,Delhi
+331,2,9/14/2024,Returned,Credit Card,Bangalore
+332,54,2/20/2023,Shipped,Credit Card,Hyderabad
+333,73,9/17/2024,Processing,Cash on Delivery,Delhi
+334,35,5/5/2023,Cancelled,Debit Card,Kolkata
+335,124,12/6/2024,Processing,Debit Card,Kolkata
+336,47,9/16/2024,Shipped,Debit Card,Bangalore
+337,31,8/1/2023,Processing,Net Banking,Kolkata
+338,164,8/6/2023,Delivered,Credit Card,Chennai
+339,186,8/5/2024,Processing,UPI,Delhi
+340,124,6/9/2023,Returned,Cash on Delivery,Pune
+341,39,10/15/2023,Delivered,Debit Card,Kolkata
+342,81,12/27/2024,Delivered,Debit Card,Kolkata
+343,78,8/10/2023,Processing,Debit Card,Delhi
+344,24,3/30/2024,Processing,UPI,Ahmedabad
+345,84,5/27/2023,Delivered,Cash on Delivery,Delhi
+346,80,2/15/2023,Processing,UPI,Pune
+347,113,11/18/2024,Delivered,Debit Card,Delhi
+348,53,7/9/2024,Cancelled,Cash on Delivery,Pune
+349,34,1/30/2023,Returned,UPI,Mumbai
+350,51,11/17/2024,Processing,UPI,Ahmedabad
+351,58,5/28/2023,Processing,Debit Card,Pune
+352,90,9/10/2024,Processing,Credit Card,Mumbai
+353,99,3/9/2023,Cancelled,Credit Card,Kolkata
+354,46,11/12/2023,Returned,UPI,Mumbai
+355,75,2/4/2024,Processing,Cash on Delivery,Ahmedabad
+356,112,12/19/2023,Delivered,Cash on Delivery,Hyderabad
+357,61,3/18/2024,Processing,Net Banking,Pune
+358,172,5/9/2023,Shipped,UPI,Mumbai
+359,35,3/28/2023,Shipped,Net Banking,Ahmedabad
+360,69,2/25/2024,Processing,Cash on Delivery,Pune
+361,95,4/26/2023,Processing,Net Banking,Mumbai
+362,121,10/7/2024,Delivered,Cash on Delivery,Chennai
+363,121,4/9/2024,Processing,Net Banking,Pune
+364,75,10/1/2024,Delivered,Debit Card,Ahmedabad
+365,72,9/16/2023,Shipped,Cash on Delivery,Chennai
+366,45,9/25/2023,Shipped,Net Banking,Delhi
+367,153,6/7/2023,Returned,Net Banking,Kolkata
+368,68,4/29/2023,Delivered,Credit Card,Ahmedabad
+369,81,6/26/2024,Delivered,UPI,Pune
+370,177,7/4/2023,Cancelled,Cash on Delivery,Hyderabad
+371,135,4/17/2023,Returned,Debit Card,Bangalore
+372,164,5/5/2023,Delivered,UPI,Delhi
+373,200,3/17/2023,Cancelled,UPI,Kolkata
+374,197,3/17/2024,Shipped,Cash on Delivery,Mumbai
+375,1,2/8/2023,Returned,Debit Card,Delhi
+376,177,5/8/2024,Delivered,Cash on Delivery,Pune
+377,75,10/25/2024,Shipped,Credit Card,Hyderabad
+378,152,9/2/2023,Returned,Net Banking,Mumbai
+379,55,10/31/2024,Processing,Net Banking,Delhi
+380,159,2/16/2023,Shipped,Credit Card,Hyderabad
+381,17,4/19/2023,Delivered,Net Banking,Bangalore
+382,189,11/25/2024,Returned,Debit Card,Mumbai
+383,71,5/25/2023,Returned,Credit Card,Pune
+384,162,9/19/2024,Returned,Credit Card,Hyderabad
+385,70,6/19/2024,Returned,Net Banking,Bangalore
+386,78,12/23/2023,Returned,UPI,Bangalore
+387,119,10/3/2024,Shipped,Debit Card,Hyderabad
+388,12,2/25/2023,Cancelled,Debit Card,Bangalore
+389,61,3/31/2024,Processing,Cash on Delivery,Pune
+390,150,5/11/2024,Delivered,Net Banking,Delhi
+391,162,1/3/2024,Cancelled,Credit Card,Pune
+392,44,12/18/2023,Shipped,Debit Card,Delhi
+393,56,8/28/2024,Returned,Net Banking,Chennai
+394,112,8/16/2024,Shipped,Cash on Delivery,Delhi
+395,121,5/31/2024,Delivered,Net Banking,Kolkata
+396,62,10/25/2024,Delivered,UPI,Ahmedabad
+397,95,10/3/2024,Returned,UPI,Mumbai
+398,86,2/26/2023,Processing,Debit Card,Hyderabad
+399,11,1/10/2024,Cancelled,Credit Card,Mumbai
+400,193,8/17/2024,Shipped,Credit Card,Pune
+401,32,4/26/2024,Processing,Cash on Delivery,Chennai
+402,38,5/23/2024,Shipped,Credit Card,Hyderabad
+403,60,6/16/2024,Cancelled,Net Banking,Pune
+404,96,10/23/2023,Delivered,Credit Card,Pune
+405,30,2/12/2023,Cancelled,Cash on Delivery,Delhi
+406,137,11/5/2023,Delivered,UPI,Kolkata
+407,75,8/10/2024,Shipped,Cash on Delivery,Ahmedabad
+408,57,4/1/2024,Cancelled,UPI,Pune
+409,197,10/12/2023,Shipped,UPI,Mumbai
+410,96,1/13/2023,Cancelled,Debit Card,Pune
+411,187,3/10/2024,Returned,Credit Card,Mumbai
+412,17,8/27/2024,Returned,UPI,Hyderabad
+413,78,8/22/2024,Cancelled,Net Banking,Ahmedabad
+414,171,10/22/2023,Returned,Credit Card,Ahmedabad
+415,93,8/18/2024,Returned,Cash on Delivery,Kolkata
+416,38,11/24/2023,Returned,Credit Card,Pune
+417,75,6/26/2024,Delivered,Cash on Delivery,Bangalore
+418,176,11/5/2023,Cancelled,Debit Card,Mumbai
+419,40,5/30/2024,Shipped,Credit Card,Mumbai
+420,88,6/26/2023,Cancelled,UPI,Mumbai
+421,21,3/11/2024,Delivered,UPI,Hyderabad
+422,78,11/14/2024,Delivered,UPI,Mumbai
+423,72,8/16/2024,Cancelled,Debit Card,Delhi
+424,50,10/16/2023,Shipped,Cash on Delivery,Hyderabad
+425,122,1/11/2024,Processing,Credit Card,Ahmedabad
+426,109,8/8/2023,Processing,Credit Card,Kolkata
+427,134,5/20/2023,Returned,Debit Card,Chennai
+428,99,10/18/2023,Returned,Cash on Delivery,Chennai
+429,102,3/24/2024,Processing,UPI,Mumbai
+430,51,12/13/2023,Shipped,Cash on Delivery,Kolkata
+431,72,8/18/2024,Processing,Debit Card,Kolkata
+432,60,10/5/2024,Shipped,UPI,Mumbai
+433,46,1/27/2024,Processing,Debit Card,Delhi
+434,139,7/13/2024,Delivered,UPI,Kolkata
+435,97,3/29/2024,Returned,UPI,Hyderabad
+436,125,4/23/2023,Processing,Net Banking,Ahmedabad
+437,8,8/27/2024,Delivered,Credit Card,Pune
+438,64,8/29/2023,Cancelled,Cash on Delivery,Mumbai
+439,6,7/5/2024,Cancelled,UPI,Ahmedabad
+440,26,12/8/2024,Shipped,Debit Card,Ahmedabad
+441,68,2/18/2023,Cancelled,Cash on Delivery,Kolkata
+442,136,5/1/2024,Returned,Credit Card,Pune
+443,111,11/10/2024,Processing,Debit Card,Bangalore
+444,164,6/29/2024,Processing,Net Banking,Hyderabad
+445,106,11/23/2023,Delivered,Credit Card,Kolkata
+446,80,4/20/2024,Returned,Cash on Delivery,Kolkata
+447,125,1/21/2023,Delivered,UPI,Pune
+448,31,6/18/2024,Processing,Cash on Delivery,Chennai
+449,45,8/8/2023,Cancelled,Net Banking,Kolkata
+450,38,1/7/2024,Returned,Debit Card,Chennai
+451,172,9/3/2023,Cancelled,Cash on Delivery,Kolkata
+452,194,8/30/2023,Cancelled,Credit Card,Delhi
+453,26,6/14/2023,Cancelled,Cash on Delivery,Mumbai
+454,52,10/5/2024,Cancelled,Debit Card,Mumbai
+455,197,10/26/2024,Shipped,Cash on Delivery,Kolkata
+456,107,1/12/2024,Shipped,Net Banking,Kolkata
+457,44,2/20/2023,Returned,Cash on Delivery,Kolkata
+458,117,11/20/2024,Returned,UPI,Bangalore
+459,53,9/6/2024,Shipped,Debit Card,Bangalore
+460,121,5/17/2023,Cancelled,Net Banking,Bangalore
+461,154,12/27/2024,Delivered,UPI,Chennai
+462,34,4/2/2023,Cancelled,Cash on Delivery,Kolkata
+463,72,1/5/2024,Returned,Debit Card,Chennai
+464,169,10/13/2024,Returned,UPI,Bangalore
+465,120,3/22/2024,Delivered,Net Banking,Hyderabad
+466,44,6/4/2024,Cancelled,Cash on Delivery,Bangalore
+467,64,5/25/2024,Delivered,Debit Card,Hyderabad
+468,118,12/25/2024,Returned,Net Banking,Chennai
+469,116,11/29/2023,Processing,Credit Card,Bangalore
+470,191,3/14/2023,Processing,Cash on Delivery,Kolkata
+471,198,2/13/2024,Delivered,UPI,Bangalore
+472,126,3/18/2024,Cancelled,Cash on Delivery,Delhi
+473,24,3/8/2024,Cancelled,Cash on Delivery,Delhi
+474,120,3/23/2024,Delivered,Net Banking,Chennai
+475,142,3/20/2023,Delivered,Cash on Delivery,Mumbai
+476,47,2/7/2024,Delivered,UPI,Kolkata
+477,21,9/10/2024,Cancelled,UPI,Kolkata
+478,44,11/2/2024,Returned,Net Banking,Kolkata
+479,54,5/7/2024,Shipped,Credit Card,Kolkata
+480,43,6/6/2023,Returned,Net Banking,Ahmedabad
+481,76,8/6/2024,Returned,UPI,Pune
+482,127,8/15/2024,Processing,Cash on Delivery,Chennai
+483,152,9/18/2024,Returned,Credit Card,Hyderabad
+484,17,10/2/2023,Returned,Net Banking,Mumbai
+485,176,12/14/2023,Processing,Net Banking,Delhi
+486,23,11/14/2024,Returned,Credit Card,Delhi
+487,54,7/24/2024,Delivered,UPI,Pune
+488,31,7/29/2024,Shipped,Net Banking,Chennai
+489,113,4/13/2024,Delivered,UPI,Mumbai
+490,53,1/6/2024,Shipped,Debit Card,Ahmedabad
+491,122,12/16/2023,Cancelled,Cash on Delivery,Delhi
+492,107,1/5/2024,Shipped,Credit Card,Kolkata
+493,133,11/29/2024,Cancelled,UPI,Ahmedabad
+494,43,3/20/2024,Delivered,Net Banking,Hyderabad
+495,185,11/18/2023,Cancelled,UPI,Chennai
+496,167,3/28/2024,Cancelled,Net Banking,Bangalore
+497,24,6/7/2024,Processing,Debit Card,Pune
+498,78,3/8/2024,Processing,UPI,Hyderabad
+499,117,12/14/2023,Shipped,Cash on Delivery,Bangalore
+500,200,1/5/2024,Returned,UPI,Delhi
+501,144,6/15/2024,Returned,Debit Card,Ahmedabad
+502,31,12/12/2024,Shipped,Net Banking,Ahmedabad
+503,31,9/8/2024,Returned,UPI,Mumbai
+504,37,5/26/2023,Processing,Net Banking,Hyderabad
+505,147,11/14/2023,Processing,Net Banking,Pune
+506,105,2/1/2024,Shipped,Net Banking,Pune
+507,43,12/25/2024,Delivered,Cash on Delivery,Chennai
+508,139,8/13/2024,Delivered,Cash on Delivery,Bangalore
+509,126,1/24/2023,Cancelled,Net Banking,Delhi
+510,40,11/11/2023,Returned,Credit Card,Hyderabad
+511,31,2/23/2023,Shipped,Credit Card,Bangalore
+512,5,10/3/2023,Processing,Cash on Delivery,Mumbai
+513,129,7/28/2023,Shipped,Debit Card,Delhi
+514,159,10/24/2023,Shipped,UPI,Hyderabad
+515,23,2/9/2024,Delivered,Credit Card,Chennai
+516,178,5/17/2023,Delivered,Cash on Delivery,Ahmedabad
+517,179,12/21/2024,Returned,Net Banking,Mumbai
+518,91,1/21/2024,Processing,Debit Card,Kolkata
+519,57,1/21/2023,Cancelled,Debit Card,Bangalore
+520,127,1/7/2024,Delivered,Debit Card,Ahmedabad
+521,127,6/24/2023,Processing,Credit Card,Delhi
+522,146,8/22/2023,Processing,Debit Card,Bangalore
+523,1,3/13/2024,Delivered,Debit Card,Kolkata
+524,81,1/6/2023,Returned,Credit Card,Pune
+525,109,3/18/2023,Shipped,Credit Card,Delhi
+526,64,4/21/2023,Returned,Credit Card,Pune
+527,19,9/6/2024,Processing,Net Banking,Mumbai
+528,157,10/3/2024,Returned,UPI,Mumbai
+529,103,4/9/2023,Processing,Net Banking,Bangalore
+530,110,9/27/2024,Processing,UPI,Pune
+531,50,4/21/2023,Delivered,UPI,Mumbai
+532,63,5/21/2023,Delivered,UPI,Delhi
+533,75,1/13/2024,Delivered,Cash on Delivery,Delhi
+534,144,2/25/2023,Returned,Debit Card,Bangalore
+535,120,9/6/2024,Cancelled,Cash on Delivery,Pune
+536,178,8/24/2023,Returned,Cash on Delivery,Bangalore
+537,2,1/7/2024,Delivered,UPI,Pune
+538,50,10/8/2024,Processing,Debit Card,Hyderabad
+539,57,9/26/2023,Shipped,Debit Card,Bangalore
+540,174,5/21/2023,Returned,UPI,Pune
+541,135,9/30/2024,Returned,UPI,Mumbai
+542,110,10/13/2024,Shipped,UPI,Bangalore
+543,126,8/3/2023,Delivered,Net Banking,Mumbai
+544,96,6/22/2024,Returned,Net Banking,Ahmedabad
+545,109,1/22/2024,Processing,Credit Card,Pune
+546,87,3/12/2024,Returned,Net Banking,Kolkata
+547,129,6/9/2024,Processing,UPI,Chennai
+548,51,11/22/2024,Cancelled,Debit Card,Chennai
+549,149,11/2/2024,Delivered,Net Banking,Delhi
+550,116,7/25/2024,Delivered,Debit Card,Delhi
+551,108,3/11/2024,Returned,Cash on Delivery,Chennai
+552,147,2/5/2024,Returned,Credit Card,Kolkata
+553,85,8/6/2024,Returned,Debit Card,Mumbai
+554,48,7/23/2023,Delivered,Net Banking,Chennai
+555,3,6/25/2023,Cancelled,Net Banking,Kolkata
+556,53,5/14/2023,Shipped,Debit Card,Kolkata
+557,146,5/17/2024,Returned,Net Banking,Hyderabad
+558,183,11/1/2023,Returned,Cash on Delivery,Delhi
+559,41,10/8/2023,Processing,Debit Card,Mumbai
+560,27,5/31/2024,Cancelled,Net Banking,Ahmedabad
+561,178,11/22/2024,Returned,Net Banking,Pune
+562,169,9/6/2023,Returned,Credit Card,Ahmedabad
+563,172,1/12/2023,Cancelled,Credit Card,Ahmedabad
+564,184,11/6/2024,Delivered,Net Banking,Chennai
+565,50,11/27/2024,Delivered,Credit Card,Mumbai
+566,161,7/14/2023,Processing,Credit Card,Kolkata
+567,17,11/4/2024,Cancelled,Cash on Delivery,Pune
+568,197,9/5/2024,Returned,UPI,Delhi
+569,5,9/15/2024,Processing,Net Banking,Kolkata
+570,189,3/14/2024,Shipped,Cash on Delivery,Mumbai
+571,52,6/5/2023,Returned,Credit Card,Hyderabad
+572,107,10/25/2024,Cancelled,UPI,Bangalore
+573,98,6/17/2024,Cancelled,Credit Card,Ahmedabad
+574,50,2/23/2023,Shipped,Credit Card,Delhi
+575,53,8/30/2023,Processing,UPI,Kolkata
+576,124,3/23/2023,Cancelled,Net Banking,Kolkata
+577,124,1/21/2023,Returned,Net Banking,Mumbai
+578,19,12/8/2023,Shipped,Net Banking,Bangalore
+579,107,2/9/2024,Cancelled,Net Banking,Ahmedabad
+580,198,12/23/2023,Processing,Net Banking,Pune
+581,63,5/4/2024,Delivered,Debit Card,Hyderabad
+582,170,6/15/2023,Delivered,UPI,Mumbai
+583,188,2/26/2024,Delivered,UPI,Pune
+584,126,1/2/2023,Delivered,UPI,Kolkata
+585,55,7/10/2023,Shipped,UPI,Delhi
+586,163,6/20/2023,Delivered,Debit Card,Mumbai
+587,2,11/12/2024,Processing,UPI,Mumbai
+588,122,12/12/2023,Processing,Net Banking,Pune
+589,26,1/4/2023,Returned,Net Banking,Delhi
+590,180,9/12/2023,Cancelled,Net Banking,Ahmedabad
+591,21,12/23/2023,Returned,Net Banking,Mumbai
+592,115,4/29/2023,Returned,Cash on Delivery,Bangalore
+593,84,1/28/2024,Cancelled,Credit Card,Chennai
+594,184,1/26/2024,Processing,Net Banking,Bangalore
+595,152,7/12/2023,Delivered,Cash on Delivery,Pune
+596,138,7/14/2023,Returned,Net Banking,Pune
+597,128,11/27/2024,Returned,Credit Card,Chennai
+598,181,8/10/2024,Returned,Credit Card,Ahmedabad
+599,14,7/3/2023,Returned,Net Banking,Chennai
+600,194,2/5/2024,Returned,UPI,Chennai
+601,182,11/8/2023,Returned,Credit Card,Delhi
+602,38,1/21/2024,Returned,Credit Card,Hyderabad
+603,14,5/1/2023,Processing,Debit Card,Kolkata
+604,177,9/2/2024,Shipped,Net Banking,Mumbai
+605,147,5/6/2024,Cancelled,UPI,Delhi
+606,136,5/15/2024,Delivered,Cash on Delivery,Mumbai
+607,81,5/6/2023,Delivered,Credit Card,Bangalore
+608,94,7/11/2024,Shipped,Net Banking,Hyderabad
+609,114,5/24/2023,Processing,Net Banking,Pune
+610,155,7/19/2024,Shipped,Cash on Delivery,Pune
+611,22,9/18/2023,Returned,Credit Card,Bangalore
+612,145,11/4/2024,Processing,Cash on Delivery,Delhi
+613,85,10/17/2024,Delivered,Debit Card,Pune
+614,32,6/29/2023,Processing,Debit Card,Ahmedabad
+615,142,10/5/2023,Processing,UPI,Hyderabad
+616,104,5/3/2024,Processing,Credit Card,Chennai
+617,146,10/1/2023,Delivered,Debit Card,Bangalore
+618,23,11/9/2023,Returned,Debit Card,Mumbai
+619,43,8/12/2024,Delivered,UPI,Chennai
+620,191,1/8/2023,Returned,Cash on Delivery,Pune
+621,45,3/18/2023,Cancelled,Credit Card,Pune
+622,96,4/26/2023,Cancelled,Credit Card,Mumbai
+623,165,6/11/2024,Delivered,Net Banking,Ahmedabad
+624,85,11/2/2023,Cancelled,UPI,Hyderabad
+625,40,2/25/2024,Delivered,Net Banking,Hyderabad
+626,47,7/3/2024,Cancelled,UPI,Ahmedabad
+627,85,2/2/2023,Shipped,Credit Card,Ahmedabad
+628,190,2/3/2024,Shipped,UPI,Mumbai
+629,4,12/1/2024,Shipped,UPI,Pune
+630,197,4/28/2023,Cancelled,Credit Card,Kolkata
+631,152,10/6/2024,Shipped,Credit Card,Mumbai
+632,158,7/24/2023,Delivered,UPI,Kolkata
+633,90,12/29/2024,Returned,Credit Card,Pune
+634,170,11/26/2023,Shipped,Debit Card,Ahmedabad
+635,4,11/30/2024,Processing,Credit Card,Pune
+636,191,9/8/2024,Delivered,UPI,Bangalore
+637,186,4/30/2024,Shipped,Cash on Delivery,Delhi
+638,183,9/16/2023,Processing,Debit Card,Pune
+639,145,3/4/2023,Shipped,Net Banking,Ahmedabad
+640,99,7/29/2024,Returned,Net Banking,Chennai
+641,132,4/11/2024,Processing,Cash on Delivery,Chennai
+642,164,6/1/2023,Cancelled,Credit Card,Chennai
+643,1,10/26/2024,Cancelled,Cash on Delivery,Pune
+644,3,12/31/2023,Shipped,Debit Card,Delhi
+645,69,7/28/2023,Processing,Net Banking,Delhi
+646,47,10/25/2024,Cancelled,UPI,Chennai
+647,63,4/10/2024,Returned,UPI,Delhi
+648,29,1/14/2023,Delivered,Credit Card,Bangalore
+649,154,1/14/2023,Delivered,UPI,Pune
+650,145,3/30/2024,Shipped,Debit Card,Pune
+651,58,1/25/2023,Shipped,Net Banking,Kolkata
+652,184,4/26/2023,Returned,Credit Card,Mumbai
+653,22,2/14/2023,Processing,Credit Card,Delhi
+654,68,12/29/2024,Delivered,UPI,Delhi
+655,29,8/14/2024,Returned,Debit Card,Delhi
+656,99,12/28/2023,Cancelled,Net Banking,Kolkata
+657,149,3/7/2024,Processing,Cash on Delivery,Bangalore
+658,5,1/7/2024,Processing,Net Banking,Delhi
+659,200,5/23/2023,Cancelled,Net Banking,Delhi
+660,180,4/19/2023,Processing,UPI,Ahmedabad
+661,146,3/2/2024,Shipped,Credit Card,Ahmedabad
+662,178,1/14/2023,Cancelled,UPI,Delhi
+663,129,6/14/2023,Delivered,Net Banking,Kolkata
+664,57,2/6/2024,Shipped,Cash on Delivery,Mumbai
+665,155,12/10/2023,Delivered,Credit Card,Chennai
+666,52,10/15/2024,Delivered,Credit Card,Chennai
+667,124,2/16/2023,Delivered,Debit Card,Mumbai
+668,180,11/21/2024,Delivered,Debit Card,Kolkata
+669,98,5/3/2024,Processing,UPI,Chennai
+670,60,8/9/2023,Shipped,Credit Card,Pune
+671,40,8/3/2024,Returned,UPI,Hyderabad
+672,76,6/15/2023,Delivered,Debit Card,Pune
+673,36,5/7/2023,Processing,Net Banking,Hyderabad
+674,81,1/18/2024,Delivered,Net Banking,Ahmedabad
+675,19,8/17/2023,Returned,Net Banking,Mumbai
+676,17,11/21/2023,Cancelled,Cash on Delivery,Ahmedabad
+677,121,5/30/2023,Shipped,Debit Card,Hyderabad
+678,18,10/8/2023,Returned,UPI,Chennai
+679,124,5/1/2024,Processing,Credit Card,Kolkata
+680,188,11/21/2023,Delivered,Credit Card,Ahmedabad
+681,185,1/4/2023,Returned,Credit Card,Ahmedabad
+682,49,3/6/2024,Processing,Credit Card,Kolkata
+683,95,1/8/2024,Delivered,Debit Card,Chennai
+684,91,12/27/2023,Processing,Net Banking,Pune
+685,46,7/20/2024,Processing,Credit Card,Kolkata
+686,26,10/10/2024,Returned,Cash on Delivery,Hyderabad
+687,90,4/20/2024,Returned,Net Banking,Hyderabad
+688,107,2/3/2023,Delivered,UPI,Delhi
+689,165,2/7/2024,Delivered,Cash on Delivery,Kolkata
+690,60,4/12/2023,Shipped,Cash on Delivery,Mumbai
+691,21,8/8/2024,Returned,UPI,Delhi
+692,37,10/4/2024,Delivered,Cash on Delivery,Mumbai
+693,37,10/17/2023,Cancelled,Credit Card,Mumbai
+694,54,2/5/2024,Delivered,Net Banking,Hyderabad
+695,162,9/13/2024,Delivered,UPI,Pune
+696,133,6/8/2024,Shipped,Credit Card,Pune
+697,57,3/27/2023,Shipped,Debit Card,Chennai
+698,176,10/15/2023,Returned,UPI,Chennai
+699,70,11/23/2023,Processing,UPI,Kolkata
+700,166,6/27/2024,Cancelled,Net Banking,Hyderabad
+701,48,1/2/2024,Shipped,UPI,Bangalore
+702,83,8/27/2023,Processing,UPI,Kolkata
+703,112,11/22/2023,Cancelled,Credit Card,Bangalore
+704,71,3/7/2024,Delivered,UPI,Ahmedabad
+705,148,1/5/2023,Returned,Debit Card,Delhi
+706,143,11/17/2023,Returned,Cash on Delivery,Hyderabad
+707,83,12/5/2024,Returned,Credit Card,Delhi
+708,138,1/6/2023,Delivered,Debit Card,Hyderabad
+709,85,12/5/2024,Processing,Net Banking,Chennai
+710,106,10/14/2024,Returned,UPI,Bangalore
+711,189,7/30/2023,Delivered,UPI,Ahmedabad
+712,120,1/30/2024,Shipped,Net Banking,Mumbai
+713,94,1/30/2024,Returned,Cash on Delivery,Bangalore
+714,62,1/17/2023,Returned,Credit Card,Chennai
+715,68,5/2/2023,Processing,UPI,Pune
+716,109,7/18/2023,Cancelled,Credit Card,Kolkata
+717,29,8/13/2023,Delivered,UPI,Hyderabad
+718,26,8/14/2023,Cancelled,Net Banking,Bangalore
+719,25,7/9/2023,Processing,Cash on Delivery,Ahmedabad
+720,171,4/30/2024,Returned,Debit Card,Hyderabad
+721,122,8/20/2024,Delivered,Net Banking,Bangalore
+722,189,12/26/2023,Processing,Debit Card,Ahmedabad
+723,70,12/3/2024,Processing,UPI,Delhi
+724,71,10/3/2024,Processing,Net Banking,Delhi
+725,180,12/18/2023,Processing,UPI,Kolkata
+726,171,6/16/2023,Cancelled,Net Banking,Chennai
+727,56,10/17/2023,Processing,UPI,Hyderabad
+728,197,7/28/2024,Shipped,UPI,Chennai
+729,122,12/30/2023,Shipped,Net Banking,Kolkata
+730,107,7/21/2024,Shipped,Debit Card,Chennai
+731,119,7/12/2024,Shipped,Net Banking,Kolkata
+732,81,5/30/2024,Cancelled,Net Banking,Pune
+733,149,6/8/2024,Cancelled,Credit Card,Chennai
+734,2,4/18/2024,Processing,Net Banking,Hyderabad
+735,167,4/20/2023,Cancelled,Cash on Delivery,Mumbai
+736,133,5/28/2023,Processing,Net Banking,Delhi
+737,160,12/5/2024,Shipped,UPI,Mumbai
+738,134,4/10/2023,Shipped,Credit Card,Mumbai
+739,157,11/28/2024,Returned,Cash on Delivery,Mumbai
+740,127,1/12/2024,Cancelled,Net Banking,Kolkata
+741,38,1/29/2023,Cancelled,Net Banking,Mumbai
+742,41,1/2/2024,Processing,Cash on Delivery,Bangalore
+743,196,11/5/2024,Cancelled,Net Banking,Mumbai
+744,8,6/12/2023,Shipped,UPI,Mumbai
+745,16,9/18/2024,Cancelled,UPI,Hyderabad
+746,8,6/28/2023,Cancelled,UPI,Ahmedabad
+747,50,3/30/2023,Processing,UPI,Mumbai
+748,19,12/15/2023,Shipped,Cash on Delivery,Ahmedabad
+749,36,3/10/2023,Returned,Net Banking,Kolkata
+750,77,4/14/2023,Delivered,Net Banking,Bangalore
+751,75,9/15/2023,Returned,Debit Card,Mumbai
+752,129,11/16/2023,Returned,Cash on Delivery,Hyderabad
+753,9,12/13/2023,Returned,Debit Card,Bangalore
+754,19,7/31/2024,Processing,UPI,Pune
+755,21,7/18/2024,Returned,Credit Card,Chennai
+756,58,10/27/2024,Cancelled,Net Banking,Ahmedabad
+757,189,1/19/2023,Processing,Net Banking,Hyderabad
+758,88,3/23/2024,Delivered,Credit Card,Bangalore
+759,193,7/3/2024,Processing,UPI,Hyderabad
+760,81,12/25/2023,Processing,Credit Card,Chennai
+761,140,7/30/2023,Returned,Debit Card,Bangalore
+762,181,9/28/2024,Returned,Debit Card,Mumbai
+763,186,5/26/2023,Delivered,Credit Card,Ahmedabad
+764,5,1/27/2024,Returned,Net Banking,Hyderabad
+765,79,2/2/2023,Processing,Debit Card,Hyderabad
+766,189,2/28/2023,Delivered,Cash on Delivery,Kolkata
+767,4,10/15/2023,Cancelled,UPI,Bangalore
+768,79,8/5/2024,Cancelled,Debit Card,Delhi
+769,21,10/11/2023,Processing,Cash on Delivery,Pune
+770,71,9/23/2023,Returned,Credit Card,Bangalore
+771,130,3/26/2024,Processing,Debit Card,Hyderabad
+772,12,9/6/2024,Shipped,Debit Card,Mumbai
+773,61,7/28/2023,Cancelled,Cash on Delivery,Pune
+774,76,9/28/2024,Delivered,Credit Card,Pune
+775,7,4/19/2023,Processing,Credit Card,Pune
+776,148,10/7/2024,Processing,Net Banking,Mumbai
+777,82,10/3/2023,Shipped,Cash on Delivery,Chennai
+778,30,12/10/2024,Shipped,Net Banking,Kolkata
+779,33,7/4/2024,Shipped,Net Banking,Delhi
+780,162,7/22/2023,Shipped,Net Banking,Hyderabad
+781,33,2/4/2023,Returned,UPI,Delhi
+782,100,3/8/2024,Cancelled,Credit Card,Kolkata
+783,158,4/21/2023,Delivered,UPI,Pune
+784,2,8/30/2024,Processing,Debit Card,Ahmedabad
+785,110,10/20/2023,Cancelled,Net Banking,Pune
+786,158,11/18/2023,Delivered,Debit Card,Chennai
+787,74,9/23/2023,Processing,UPI,Bangalore
+788,139,7/4/2024,Shipped,UPI,Ahmedabad
+789,147,3/12/2024,Returned,Cash on Delivery,Delhi
+790,21,8/16/2023,Delivered,Debit Card,Delhi
+791,143,11/7/2024,Delivered,UPI,Bangalore
+792,48,5/23/2024,Cancelled,Credit Card,Bangalore
+793,126,7/25/2024,Processing,Credit Card,Delhi
+794,162,8/20/2024,Shipped,Debit Card,Ahmedabad
+795,101,9/4/2024,Cancelled,Cash on Delivery,Ahmedabad
+796,119,11/23/2023,Delivered,Debit Card,Kolkata
+797,69,6/3/2024,Shipped,Net Banking,Hyderabad
+798,187,8/13/2023,Cancelled,UPI,Chennai
+799,6,1/24/2024,Delivered,Debit Card,Pune
+800,138,7/23/2023,Shipped,Cash on Delivery,Kolkata
+801,64,1/14/2023,Delivered,UPI,Mumbai
+802,34,10/4/2023,Delivered,UPI,Mumbai
+803,6,11/6/2023,Cancelled,Net Banking,Bangalore
+804,75,3/15/2024,Delivered,Credit Card,Kolkata
+805,183,4/21/2023,Returned,Credit Card,Hyderabad
+806,126,8/30/2024,Shipped,UPI,Delhi
+807,2,10/2/2023,Shipped,Cash on Delivery,Ahmedabad
+808,4,6/15/2023,Processing,UPI,Delhi
+809,135,5/13/2024,Shipped,Cash on Delivery,Kolkata
+810,37,10/25/2023,Processing,Credit Card,Pune
+811,107,7/3/2023,Shipped,Net Banking,Mumbai
+812,25,7/4/2024,Returned,Debit Card,Mumbai
+813,90,10/13/2024,Processing,Credit Card,Pune
+814,110,8/21/2024,Cancelled,Debit Card,Kolkata
+815,134,8/24/2024,Returned,Debit Card,Chennai
+816,14,5/21/2023,Processing,Net Banking,Kolkata
+817,21,9/11/2024,Shipped,Credit Card,Chennai
+818,143,3/21/2024,Cancelled,Credit Card,Hyderabad
+819,3,7/20/2023,Returned,Debit Card,Bangalore
+820,95,9/17/2023,Processing,UPI,Chennai
+821,179,12/22/2024,Cancelled,Debit Card,Hyderabad
+822,126,6/27/2023,Returned,Cash on Delivery,Mumbai
+823,183,6/6/2023,Shipped,Credit Card,Mumbai
+824,173,11/21/2023,Shipped,Cash on Delivery,Pune
+825,172,3/4/2023,Delivered,Credit Card,Delhi
+826,192,1/4/2023,Cancelled,Debit Card,Pune
+827,179,3/30/2023,Processing,Net Banking,Mumbai
+828,48,11/22/2023,Processing,UPI,Delhi
+829,186,9/10/2023,Cancelled,Credit Card,Delhi
+830,70,7/24/2023,Shipped,Debit Card,Chennai
+831,138,8/5/2024,Shipped,Net Banking,Pune
+832,30,6/13/2024,Shipped,Net Banking,Delhi
+833,166,4/13/2023,Shipped,Debit Card,Chennai
+834,148,12/12/2024,Returned,Net Banking,Ahmedabad
+835,60,6/3/2024,Delivered,Net Banking,Kolkata
+836,146,5/23/2023,Shipped,Debit Card,Hyderabad
+837,118,2/10/2024,Shipped,Net Banking,Hyderabad
+838,53,3/23/2024,Delivered,Credit Card,Delhi
+839,172,1/21/2024,Returned,Credit Card,Mumbai
+840,151,1/28/2023,Shipped,Cash on Delivery,Delhi
+841,193,2/12/2024,Delivered,Credit Card,Delhi
+842,124,2/5/2023,Cancelled,Net Banking,Delhi
+843,26,11/2/2024,Returned,UPI,Delhi
+844,67,10/11/2024,Delivered,Cash on Delivery,Ahmedabad
+845,21,6/3/2023,Delivered,Debit Card,Chennai
+846,126,4/16/2024,Cancelled,UPI,Pune
+847,84,11/1/2023,Delivered,Cash on Delivery,Mumbai
+848,111,10/9/2023,Cancelled,Net Banking,Bangalore
+849,6,7/8/2023,Cancelled,UPI,Kolkata
+850,78,9/22/2024,Processing,Cash on Delivery,Bangalore
+851,195,3/23/2024,Cancelled,Credit Card,Chennai
+852,70,1/6/2023,Returned,Credit Card,Hyderabad
+853,157,10/22/2023,Processing,Net Banking,Kolkata
+854,191,5/25/2024,Shipped,Cash on Delivery,Delhi
+855,116,11/21/2024,Returned,UPI,Delhi
+856,73,7/23/2024,Returned,Credit Card,Kolkata
+857,147,10/24/2023,Shipped,Credit Card,Kolkata
+858,104,5/21/2024,Returned,Debit Card,Ahmedabad
+859,168,6/26/2023,Delivered,Net Banking,Kolkata
+860,84,9/16/2024,Shipped,Credit Card,Ahmedabad
+861,168,2/3/2024,Processing,Cash on Delivery,Bangalore
+862,76,3/8/2023,Delivered,Credit Card,Ahmedabad
+863,185,3/13/2023,Delivered,UPI,Kolkata
+864,186,3/3/2023,Cancelled,Net Banking,Hyderabad
+865,29,6/23/2023,Cancelled,Net Banking,Pune
+866,19,4/14/2024,Returned,Credit Card,Chennai
+867,38,6/18/2024,Cancelled,UPI,Bangalore
+868,40,12/12/2024,Shipped,Credit Card,Chennai
+869,159,6/24/2023,Cancelled,Credit Card,Pune
+870,17,12/17/2023,Shipped,Debit Card,Bangalore
+871,92,5/25/2024,Returned,Cash on Delivery,Hyderabad
+872,130,3/10/2023,Cancelled,Cash on Delivery,Mumbai
+873,63,9/20/2023,Shipped,Credit Card,Bangalore
+874,63,8/22/2024,Processing,Net Banking,Ahmedabad
+875,19,7/21/2023,Returned,UPI,Ahmedabad
+876,151,8/9/2023,Processing,Net Banking,Chennai
+877,114,10/20/2024,Shipped,Cash on Delivery,Ahmedabad
+878,127,10/8/2024,Shipped,Debit Card,Ahmedabad
+879,194,7/6/2023,Returned,UPI,Pune
+880,50,4/22/2023,Shipped,Credit Card,Chennai
+881,50,2/10/2024,Shipped,Credit Card,Delhi
+882,79,12/8/2023,Cancelled,Debit Card,Ahmedabad
+883,36,4/12/2024,Cancelled,UPI,Bangalore
+884,84,7/25/2024,Processing,Credit Card,Bangalore
+885,100,12/5/2024,Returned,Credit Card,Chennai
+886,199,2/28/2024,Shipped,Credit Card,Chennai
+887,67,7/24/2024,Processing,Debit Card,Hyderabad
+888,55,7/8/2023,Cancelled,Net Banking,Bangalore
+889,136,3/3/2023,Processing,Debit Card,Hyderabad
+890,137,6/12/2023,Processing,UPI,Ahmedabad
+891,19,7/6/2023,Processing,Debit Card,Ahmedabad
+892,150,11/21/2024,Cancelled,Cash on Delivery,Ahmedabad
+893,26,1/27/2023,Processing,Cash on Delivery,Hyderabad
+894,52,11/7/2023,Shipped,Net Banking,Chennai
+895,97,1/27/2023,Returned,Credit Card,Kolkata
+896,53,1/25/2024,Processing,UPI,Mumbai
+897,92,11/21/2023,Returned,Credit Card,Bangalore
+898,29,4/12/2024,Delivered,UPI,Kolkata
+899,100,4/27/2024,Delivered,Debit Card,Pune
+900,3,5/12/2023,Processing,Credit Card,Delhi
+901,172,7/5/2023,Cancelled,UPI,Delhi
+902,161,1/18/2024,Cancelled,Cash on Delivery,Pune
+903,121,2/5/2023,Shipped,Net Banking,Hyderabad
+904,107,7/3/2024,Returned,Credit Card,Hyderabad
+905,192,8/7/2024,Shipped,Credit Card,Bangalore
+906,158,4/18/2023,Shipped,Credit Card,Chennai
+907,69,5/15/2023,Cancelled,Net Banking,Pune
+908,163,2/4/2023,Shipped,Credit Card,Kolkata
+909,68,7/12/2024,Returned,UPI,Chennai
+910,172,12/17/2023,Processing,Debit Card,Mumbai
+911,76,5/10/2023,Cancelled,Debit Card,Ahmedabad
+912,200,6/5/2023,Processing,Cash on Delivery,Hyderabad
+913,193,6/5/2023,Processing,Cash on Delivery,Kolkata
+914,122,4/24/2024,Cancelled,Credit Card,Chennai
+915,172,11/16/2023,Shipped,Cash on Delivery,Mumbai
+916,42,9/6/2023,Returned,Credit Card,Kolkata
+917,39,7/30/2023,Returned,Credit Card,Chennai
+918,32,7/8/2024,Processing,Net Banking,Delhi
+919,11,1/26/2024,Cancelled,UPI,Ahmedabad
+920,111,3/7/2024,Delivered,UPI,Chennai
+921,127,8/15/2023,Processing,Net Banking,Chennai
+922,145,1/20/2024,Processing,Cash on Delivery,Kolkata
+923,165,4/11/2023,Processing,UPI,Mumbai
+924,113,4/16/2024,Processing,Cash on Delivery,Hyderabad
+925,65,1/3/2024,Cancelled,Debit Card,Bangalore
+926,198,7/14/2024,Cancelled,Net Banking,Pune
+927,59,11/21/2023,Cancelled,UPI,Mumbai
+928,83,1/17/2023,Delivered,Credit Card,Chennai
+929,38,12/15/2023,Processing,Debit Card,Kolkata
+930,58,3/29/2024,Delivered,Credit Card,Delhi
+931,76,9/7/2023,Delivered,Cash on Delivery,Ahmedabad
+932,68,3/17/2024,Cancelled,Debit Card,Bangalore
+933,130,12/26/2024,Returned,Cash on Delivery,Pune
+934,166,7/21/2024,Shipped,Net Banking,Chennai
+935,152,3/22/2024,Delivered,Credit Card,Hyderabad
+936,126,3/17/2024,Shipped,Net Banking,Bangalore
+937,2,9/16/2024,Delivered,Debit Card,Mumbai
+938,42,7/19/2023,Shipped,Cash on Delivery,Delhi
+939,147,12/18/2024,Returned,Net Banking,Kolkata
+940,59,12/26/2023,Delivered,Debit Card,Ahmedabad
+941,16,7/24/2024,Delivered,Debit Card,Mumbai
+942,146,7/30/2024,Cancelled,UPI,Delhi
+943,175,6/8/2023,Processing,Debit Card,Delhi
+944,28,12/24/2023,Shipped,Cash on Delivery,Delhi
+945,157,12/12/2023,Returned,Cash on Delivery,Kolkata
+946,123,11/6/2024,Processing,UPI,Mumbai
+947,97,3/26/2023,Returned,UPI,Ahmedabad
+948,100,11/10/2023,Returned,Debit Card,Hyderabad
+949,151,8/7/2024,Processing,Credit Card,Pune
+950,99,7/12/2023,Cancelled,Cash on Delivery,Hyderabad
+951,147,10/17/2024,Processing,UPI,Hyderabad
+952,103,2/15/2023,Shipped,Credit Card,Bangalore
+953,49,5/14/2024,Cancelled,Cash on Delivery,Hyderabad
+954,190,9/20/2023,Returned,Debit Card,Chennai
+955,52,5/11/2023,Processing,UPI,Ahmedabad
+956,197,2/12/2023,Processing,Credit Card,Bangalore
+957,165,2/27/2023,Returned,Net Banking,Delhi
+958,63,9/8/2024,Processing,Debit Card,Delhi
+959,5,9/25/2024,Shipped,Debit Card,Pune
+960,2,1/26/2024,Delivered,Cash on Delivery,Hyderabad
+961,192,9/1/2023,Returned,Cash on Delivery,Chennai
+962,45,2/2/2024,Cancelled,Credit Card,Pune
+963,118,2/25/2024,Processing,Credit Card,Kolkata
+964,116,3/30/2024,Returned,Net Banking,Pune
+965,187,11/6/2024,Processing,Debit Card,Ahmedabad
+966,52,8/11/2023,Cancelled,Cash on Delivery,Delhi
+967,51,6/4/2023,Returned,Debit Card,Ahmedabad
+968,161,2/6/2023,Delivered,UPI,Mumbai
+969,24,11/17/2023,Cancelled,Credit Card,Delhi
+970,115,5/1/2024,Cancelled,Credit Card,Chennai
+971,142,10/5/2024,Returned,Debit Card,Bangalore
+972,11,5/19/2023,Returned,Net Banking,Kolkata
+973,87,3/29/2023,Cancelled,UPI,Delhi
+974,83,10/27/2023,Delivered,Debit Card,Ahmedabad
+975,65,7/16/2023,Processing,Debit Card,Hyderabad
+976,86,7/18/2024,Delivered,Credit Card,Hyderabad
+977,121,1/25/2024,Returned,UPI,Chennai
+978,116,11/18/2024,Delivered,Debit Card,Mumbai
+979,46,1/18/2024,Delivered,Credit Card,Bangalore
+980,189,12/16/2023,Processing,UPI,Delhi
+981,184,3/23/2023,Returned,Debit Card,Bangalore
+982,46,7/22/2023,Cancelled,Credit Card,Bangalore
+983,83,8/22/2023,Shipped,Net Banking,Chennai
+984,17,5/20/2024,Cancelled,UPI,Kolkata
+985,173,4/1/2023,Cancelled,Cash on Delivery,Pune
+986,191,5/6/2024,Cancelled,Net Banking,Chennai
+987,119,4/8/2024,Shipped,Credit Card,Kolkata
+988,5,2/5/2024,Returned,Credit Card,Chennai
+989,186,5/26/2024,Returned,Net Banking,Delhi
+990,107,5/17/2024,Delivered,Debit Card,Delhi
+991,33,1/14/2024,Processing,Net Banking,Mumbai
+992,54,12/1/2023,Shipped,Debit Card,Ahmedabad
+993,157,8/31/2023,Shipped,Net Banking,Ahmedabad
+994,99,6/1/2023,Processing,Debit Card,Mumbai
+995,58,10/10/2024,Delivered,Debit Card,Pune
+996,76,3/4/2023,Shipped,Cash on Delivery,Chennai
+997,7,1/30/2023,Returned,UPI,Pune
+998,117,10/19/2023,Shipped,Cash on Delivery,Delhi
+999,161,3/20/2024,Cancelled,Net Banking,Delhi
+1000,183,5/16/2023,Returned,UPI,Mumbai
